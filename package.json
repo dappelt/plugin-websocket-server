@@ -21,6 +21,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "ilp-plugin-xrp-paychan": "^2.0.0",
     "koa": "^2.3.0",
     "koa-passport": "^3.0.0",
     "koa-riverpig": "^1.0.1",
